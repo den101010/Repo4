@@ -12,8 +12,5 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
     }
-
-
-    var name = "Denis"
 }
 
